@@ -46,6 +46,10 @@ nav {
   align-items: center;
 }
 
+.hamburger {
+  display: none;
+}
+
 .profil {
   font-size: small;
   margin: 0px;
@@ -310,7 +314,7 @@ body.dark-mode .floating-toggle:hover {
     justify-content: space-between;
   }
 
-  .hamburger {
+  body .hamburger {
     display: block;
   }
 
@@ -326,6 +330,10 @@ body.dark-mode .floating-toggle:hover {
 
   body.dark-mode nav ul {
     background-color: #1e1e1e;
+  }
+
+  body.dark-mode .hamburger {
+    filter: invert(100%);
   }
 
   nav ul.aktif {
