@@ -27,11 +27,13 @@ Screenshot Tampilan Website (SS)
 ![Tampilan Desktop Dark](asset/Documentation/darkmodepc.png)
 
 3. Tampilan Mobile (Light Mode)
+
 ![Tampilan Mobile (Light Mode)](asset/Documentation/lightmodehp1.png)
 ![Tampilan Mobile (Light Mode)](asset/Documentation/lightmodehp2.png)
 ![Tampilan Mobile (Light Mode)](asset/Documentation/lightmodehp3.png)
 
 5. Tampilan Mobile (Light Mode)
+
 ![Tampilan Mobile (Dark Mode)](asset/Documentation/darkmodehp1.png)
 ![Tampilan Mobile (Dark Mode)](asset/Documentation/darkmodehp2.png)
 ![Tampilan Mobile (Dark Mode)](asset/Documentation/darkmodehp3.png)
